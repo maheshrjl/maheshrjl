@@ -95,12 +95,5 @@ I work as QA Engineer during the day, learn DevOps & Linux @ night.
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=maheshrjl&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

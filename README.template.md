@@ -1,1 +1,0 @@
-[![Maheshrjl's GitHub Banner](./assets/GitHubHeader.png)](https://link.maheshrjl.com)
