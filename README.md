@@ -27,16 +27,12 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/maheshrjl" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### About Me 👇  
 I work as QA Engineer during the day, learn DevOps & Linux @ night.   
-  
 
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -58,7 +54,6 @@ I work as QA Engineer during the day, learn DevOps & Linux @ night.
 
 <br/>  
 
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
@@ -73,27 +68,3 @@ I work as QA Engineer during the day, learn DevOps & Linux @ night.
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maheshrjl&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshrjl&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=maheshrjl&&style=flat-square" align="center" />
-</div>  
-<br/>  
-<br />
