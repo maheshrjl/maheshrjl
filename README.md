@@ -1,19 +1,21 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
   
 
 ### <div align="center">I'm Mahesh. I'm a DevOps & Cloud enthusiast!</div>  
   
 
-- 📖 My notes are available at [notes.maheshrjl.com](https://notes.maheshrjl.com).  
+- 📖 Read my [notes](https://notes.maheshrjl.com).  
   
 
 - 🌱 I’m currently learning __Ansible__, __Terraform__, __Linux__, and __AWS__.  
   
 
-- 🅱️ I write blogs occassionally [blog.maheshrjl.com](https://blog.maheshrjl.com)  
+- 🅱️ I write [blogs](https://blog.maheshrjl.com) occassionally
   
+
+- 🌐 Find me on the [web](link.maheshrjl.com)
 
 - 📫 How to reach me mhs@maheshrjl.com  
   
@@ -54,13 +56,26 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  
+
 <br/>  
+
+  
+
 <br/>  
+
+  
+
 <br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=maheshrjl&&style=flat-square" align="center" />
 </div>  
+  
+
 <br/>  
+
+
 <br />
 
 ----
