@@ -6,21 +6,22 @@
 ### <div align="center">I'm Mahesh. I'm a DevOps & Cloud enthusiast!</div>  
   
 
-- 📖 Read my [notes](https://notes.maheshrjl.com).  
+- 📖 Read my [notes](https://notes.maheshrjl.com).
   
 
 - 🌱 I’m currently learning __Ansible__, __Terraform__, __Linux__, and __AWS__.  
   
 
-- 🅱️ I write [blogs](https://blog.maheshrjl.com) occassionally
+- 🅱️ I write [blogs](https://blog.maheshrjl.com) occassionally.
   
 
-- 🌐 Find me on the [web](link.maheshrjl.com)
+- 🌐 Find me on the [web](link.maheshrjl.com).
 
-- 📫 How to reach me mhs@maheshrjl.com  
+
+- 📫 How to reach me [mhs@maheshrjl.com](mailto:mhs@maheshrjl.com).  
   
 
-- ⚡Fun fact: I love houseplants  
+- ⚡Fun fact: I love houseplants.
   
 
 <br/>  
