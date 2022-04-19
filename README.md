@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -54,26 +54,13 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=maheshrjl&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
-
 <br />
 
 ----
