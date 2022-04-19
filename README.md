@@ -1,29 +1,79 @@
-<h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">Learning DevOps & Cloud!</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
+  
 
-- 🔭 I’m currently working on [Terraform](https://github.com/maheshrjl?tab=repositories&q=&type=&language=hcl&sort=)
+### <div align="center">I'm Mahesh. I'm a DevOps & Cloud enthusiast!</div>  
+  
 
-- 🌱 I’m currently learning **Ansible, Terraform, Linux, AWS**
+- 📖 My notes are available at [notes.maheshrjl.com](https://notes.maheshrjl.com).  
+  
 
-- 📖 My notes are available at [https://notes.maheshrjl.com](https://notes.maheshrjl.com)
+- 🌱 I’m currently learning __Ansible__, __Terraform__, __Linux__, and __AWS__.  
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/maheshrjl?tab=repositories](https://github.com/maheshrjl?tab=repositories)
+- 🅱️ I write blogs occassionally [blog.maheshrjl.com](https://blog.maheshrjl.com)  
+  
 
-- 📝 I regularly write articles on [https://blog.maheshrjl.com](https://blog.maheshrjl.com)
+- 📫 How to reach me mhs@maheshrjl.com  
+  
 
-- 📫 How to reach me **mhs@maheshrjl.com**
+- ⚡Fun fact: I love houseplants  
+  
 
-- 🤝 Connect on LinkedIn [https://linkedin.com/in/maheshrjl](https://linkedin.com/in/maheshrjl)
+<br/>  
 
-- ⚡ Fun fact **I love plants 🪴**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maheshrjl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheshrjl" height="30" width="40" /></a>
-<a href="https://hashnode.com/@maheshrjl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@maheshrjl" height="30" width="40" /></a>
-</p>
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
+</div>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="25" />  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/maheshrjl" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/maheshrjl" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/maheshrjl" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/maheshrjl" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=maheshrjl&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
