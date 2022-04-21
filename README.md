@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://github.com/maheshrjl/maheshrjl/blob/main/greetings.gif" align="center" height="" width="600" />
 </div>  
   
 
@@ -15,7 +15,7 @@
 - 🅱️ I write [blogs](https://blog.maheshrjl.com) occassionally.
   
 
-- 🌐 Find me on the [web](link.maheshrjl.com).
+- 🌐 Find me on the [web](https://link.maheshrjl.com).
 
 
 - 📫 How to reach me [mhs@maheshrjl.com](mailto:mhs@maheshrjl.com).  
